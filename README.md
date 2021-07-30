@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm Johnathan Frabetti</h1>
 <h3 align="center">
-SI student in training at Faculdade Iteana de Bauru, passionate about technology and innovation</h3>
+Information Security Student and Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🔭 I’m currently working on [Totvs](https://github.com/totvs)
