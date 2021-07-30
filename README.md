@@ -5,7 +5,7 @@ SI student in training at Faculdade Iteana de Bauru, passionate about technology
 
 - 🔭 I’m currently working on [Totvs](https://github.com/totvs)
 
-- 👨‍💻 All of my projects are available at [github.com/PabloPolito](https://github.com/0xaUnkn0wn)
+- 👨‍💻 All of my projects are available at [github.com/0xaUnkn0wn](https://github.com/0xaUnkn0wn)
 
 - 💬 Ask me about **C/C++, HTML, JavaScript, PHP, Assembly, Python and CSharp**
 
